@@ -1,5 +1,6 @@
 # ScriptEditor
 Editor de scripts per a Linux
+![Image of the GUI](https://github.com/Jyskar/ScriptEditor/blob/master/Capture.PNG)
 # Funcions
 Editar un script i executar-lo amb parametres o sense parametres, es pot redireccionar stdout i stderr a fitxers i es pot llegir aquests
 en una finestra nova.
