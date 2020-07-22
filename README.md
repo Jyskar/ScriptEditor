@@ -4,9 +4,7 @@ Script editor for linux, build with python and Tkinter.
 ![Image of the GUI](https://github.com/Jyskar/ScriptEditor/blob/master/Capture.PNG)
 
 # Funcions
-Editar un script i executar-lo amb parametres o sense parametres, es pot redireccionar stdout i stderr a fitxers i es pot llegir aquests
-en una finestra nova.
+Edit and execute scrips with parameters from the UI, can redirect stdout and stderr to files and read them after execution in a new window.
 
-El script es pot executar inmediatament al cap de n segons, executar un sol cop en serta hora utilitzant el format de la comanda "at".
+Scrips can be executed inmediatly, in a certain amount of time, at a certain hour or they can be executed periodically using cron.
 
-Tambe es pot programar per a que s'executi periodicament amb el cron.
